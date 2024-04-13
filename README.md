@@ -1,4 +1,4 @@
-# Cummulative Table Design
+# Cumulative Table Design
 
 Cumulative table design is a really useful tool for data engineers. It helps them analyze data over long periods, even thousands of days, without any problems. Here's a simple diagram showing how it works-
 
